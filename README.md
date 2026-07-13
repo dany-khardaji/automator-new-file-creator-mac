@@ -1,5 +1,5 @@
 # mac-new-file-creator
-This is a local macOS utility used to right click a folder anywhere in Finder
+This is a local macOS utility using Automator and Python to right click a folder anywhere in Finder
 and instantly create a blank file such as `.txt`, `.md`, `.py`, and `.pages`.
 
 ## Why I built it
